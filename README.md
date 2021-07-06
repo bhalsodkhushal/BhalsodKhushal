@@ -1,6 +1,6 @@
 <!-- Banner-->
 
-[![Header](https://github.com/bhalsodkhushal/BhalsodKhushal/blob/main/cover-image.jpg "Header")](https://github.com/bhalsodkhushal)
+[![Header](https://resizeimage.net/viewimg/LDrXvlXxb8vJRTF2/OnZeH/cover-image.jpg "Header")](https://github.com/bhalsodkhushal)
 
 <!-- Badges-->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhalsodkhushal" alt="bhalsodkhushal" /> 
