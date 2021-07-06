@@ -1,6 +1,6 @@
 <!-- Banner-->
 
-[![Header](https://github.com/bhalsodkhushal/BhalsodKhushal/blob/main/cover-image.jpg "Header")](https://some-url.dev/)
+[![Header](https://github.com/bhalsodkhushal/BhalsodKhushal/blob/main/cover-image.jpg "Header")](https://github.com/bhalsodkhushal)
 
 <!-- Badges-->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhalsodkhushal" alt="bhalsodkhushal" /> 
@@ -53,5 +53,5 @@
 <img src="https://github-readme-stats.vercel.app/api?username=bhalsodkhushal&show_icons=true&count_private=true&layout=compact" alt="bhalsodkhushal" />
 </p>
 <br />
-
 <h2 align='center'><i>Stay awesome!</i></h2>
+<br />
