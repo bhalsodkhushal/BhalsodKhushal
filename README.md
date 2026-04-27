@@ -8,7 +8,7 @@
 
 <!-- Summary/Portfolio-->
 
-- 🔭 I’m currently working on **Frontend & Backend**
+- 🔭 I’m currently working on **Technical Lead (Full Stack)**
 
 - 👯 I’m looking to collaborate on **Opensource Projects**
 
